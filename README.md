@@ -5,12 +5,12 @@ Como usar:
 
 1-Baixe o Código fonte no botão "Code"->"Download zip";
 
-2-Descompacte o código fonte;
+2-Descompacte o código fonte com o programa de sua preferência;
 
-3-Insira os arquivos .apk em /system/app/;
+3-Mova os arquivos .apk em /system/app/;
 
 4-Compacte o módulo em .zip;
 
-5-Instale o módulo no Magisk: clique na aba módulos (icone de peça de quebra-cabeça) e depois em "instalar a partir do armazenamento", após isso procure o módulo que você conpactou e deixe instalar, apos isso clique em reiniciar.
+5-Instale o módulo no Magisk: clique na aba módulos (icone de peça de quebra-cabeça) e depois em "instalar a partir do armazenamento", após isso procure o módulo que você compactou e deixe instalar, apos isso clique em reiniciar.
 
 obs: A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de apks.
