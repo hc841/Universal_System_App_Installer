@@ -1,6 +1,6 @@
 id=universal_system_app_installer
 name=Universal System App Installer
 version=1.0
-versionCode=14
+versionCode=1
 author=hc841
 description=módulo do magisk para instalar apks como apps de sistema
