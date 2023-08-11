@@ -22,7 +22,7 @@ O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com
 
 3. Este módulo requer a utilização do Magisk 20.4 ou uma versão mais recente.
 
-## Contribua para o projeto.
+## Contribua com o projeto.
 
 Se você gostou do meu projeto, considere fazer uma doação.
 
