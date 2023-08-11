@@ -22,6 +22,15 @@ O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com
 
 3. Este módulo requer a utilização do Magisk 20.4 ou uma versão mais recente.
 
+## Contribua para o projeto.
+
+Se você gostou do meu projeto, considere fazer uma doação.
+
+Pix: henriquemattos841@gmail.com;
+Bitcoin: 0x431376b69495c4C4E4ffea7BcD31799e74D50284;
+Ethereum: bc1q838750nwwfw77ey2tj8yw0kz69j9fcz37gwp6f;
+BNB: bnb198u9kkctjx749dt7nrrmnrk59z73c79cmk4y56.
+
 ## Créditos e Referências:
 
 Este projeto teve como fonte de inspiração um [vídeo](https://www.youtube.com/watch?v=tM5dLRbMuwM&t=1523s) disponibilizado pelo canal [VegaData](https://www.youtube.com/@VegaData). O conteúdo desse vídeo foi fundamental para a criação do modelo do módulo e a implementação da funcionalidade que permite a instalação de APKs como aplicativos do sistema.
