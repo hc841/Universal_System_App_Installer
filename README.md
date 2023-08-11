@@ -1,22 +1,21 @@
-# Universal_System_App_Installer
-Módulo do Magisk para instalar um ou mais apks como app do sistema 
+Módulo do Magisk para instalar um ou mais APKs como apps do sistema
 
 Como usar:
 
-1-Baixe o Código fonte no botão "Code/Download zip";
+1- Baixe o código fonte no botão "Code/Download zip";
 
-2-Descompacte o código fonte com o programa de sua preferência;
+2- Descompacte o código fonte com o programa de sua preferência;
 
-3-Mova os arquivos .apk em /system/app/;
+3- Mova os arquivos .apk para /system/app/;
 
-4-Entre na pasta raiz do módulo e compacte tudo la dentro em .zip;
+4- Acesse a pasta raiz do módulo e compacte tudo lá dentro em um arquivo .zip;
 
-5-Instale o módulo no Magisk: clique na aba módulos (icone de peça de quebra-cabeça) e depois em "instalar a partir do armazenamento", após isso procure o módulo que você compactou e deixe instalar, apos isso clique em reiniciar.
+5- Instale o módulo no Magisk: clique na aba "Módulos" (ícone de peça de quebra-cabeça) e, em seguida, em "Instalar a partir do armazenamento". Após isso, procure o módulo que você compactou e deixe-o instalar. Depois disso, clique em "Reiniciar".
 
 Observações:
 
-1-A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de apks;
+1- A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de APKs;
 
-2-Nos testes no meu dispositivo (Motorola Moto g9 play) não pude instalar um zip com mais de 230mb;
+2- Nos testes no meu dispositivo (Motorola Moto G9 Play), não pude instalar um arquivo ZIP com mais de 230 MB;
 
-3-Usar apenas do Magisk 20.4 para cima.
+3- Use apenas o Magisk 20.4 para cima.
