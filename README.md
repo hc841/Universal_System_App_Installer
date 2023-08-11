@@ -13,7 +13,7 @@ Como usar:
 
 5-Instale o módulo no Magisk: clique na aba módulos (icone de peça de quebra-cabeça) e depois em "instalar a partir do armazenamento", após isso procure o módulo que você compactou e deixe instalar, apos isso clique em reiniciar.
 
-o?Ibservações:
+Observações:
 
 1-A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de apks;
 
