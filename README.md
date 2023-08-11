@@ -1,6 +1,6 @@
 # Universal System App Installer
 
-O "Instalador Universal de Aplicativos do Sistema" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação de um ou mais APKs como aplicativos do sistema em dispositivos Android.
+O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação de um ou mais APKs como aplicativos do sistema em dispositivos Android.
 
 ## Como utilizar:
 
