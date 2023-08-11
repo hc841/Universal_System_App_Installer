@@ -1,23 +1,29 @@
 # Universal System App Installer
 
-Um módulo do Magisk para instalar um ou mais APKs como apps do sistema.
+O "Instalador Universal de Aplicativos do Sistema" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação de um ou mais APKs como aplicativos do sistema em dispositivos Android.
 
-## Como usar:
+## Como utilizar:
 
-1- Baixe o código fonte no botão "Code/Download zip";
+1. Faça o download do código-fonte clicando no botão "Código/Baixar ZIP";
 
-2- Descompacte o código fonte com o programa de sua preferência;
+2. Descompacte os arquivos obtidos utilizando o programa de sua preferência;
 
-3- Mova os arquivos APK que deseja instalar para /system/app/;
+3. Mova os arquivos APK que deseja transformar em aplicativos do sistema para a pasta /system/app/;
 
-4- Acesse a pasta raiz do módulo e compacte tudo lá dentro em um arquivo ZIP;
+4. Navegue até a pasta principal do módulo e compacte todos os arquivos em um único arquivo ZIP;
 
-5- Instale o módulo no Magisk: clique na aba "Módulos" (ícone de peça de quebra-cabeça) e, em seguida, em "Instalar a partir do armazenamento". Após isso, procure o módulo que você compactou e deixe-o instalar. Depois disso, clique em "Reiniciar".
+5. Prossiga instalando o módulo no Magisk: acesse a aba "Módulos" (representada pelo ícone de uma peça de quebra-cabeça) e, em seguida, clique em "Instalar a partir do armazenamento". Localize o arquivo ZIP do módulo que você criou e confirme a instalação. Finalize clicando em "Reiniciar".
 
 ## Observações:
 
-1- A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de APKs;
+1. O tempo necessário para a instalação pode variar conforme a velocidade do seu dispositivo e a quantidade de APKs selecionados;
 
-2- O arquivo zipado não pode passar de 230 MB;
+2. Certifique-se de que o tamanho do arquivo ZIP não exceda 230 MB;
 
-3- Use apenas o Magisk 20.4 para cima.
+3. Este módulo requer a utilização do Magisk 20.4 ou uma versão mais recente.
+
+## Créditos e Referências:
+
+Este projeto teve como fonte de inspiração um [vídeo](https://www.youtube.com/watch?v=tM5dLRbMuwM&t=1523s) disponibilizado pelo canal [VegaData](https://www.youtube.com/@VegaData). O conteúdo desse vídeo foi fundamental para a criação do modelo do módulo e a implementação da funcionalidade que permite a instalação de APKs como aplicativos do sistema.
+
+Gostaria também de expressar meus agradecimentos aos professores do IFC campus São Bento do Sul, cujas contribuições foram valiosas na elaboração da descrição e do arquivo README deste projeto.
