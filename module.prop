@@ -3,4 +3,4 @@ name=Universal System App Installer
 version=1.0
 versionCode=1
 author=hc841
-description=módulo do magisk para instalar apks como apps de sistema
+description=módulo do Magisk para instalar um ou mais apks como apps de sistema
