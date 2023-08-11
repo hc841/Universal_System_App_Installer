@@ -38,4 +38,6 @@ Se você gostou do meu projeto, considere fazer uma doação.
 
 Este projeto teve como fonte de inspiração um [vídeo](https://www.youtube.com/watch?v=tM5dLRbMuwM&t=1523s) disponibilizado pelo canal [VegaData](https://www.youtube.com/@VegaData). O conteúdo desse vídeo foi fundamental para a criação do modelo do módulo e a implementação da funcionalidade que permite a instalação de APKs como aplicativos do sistema.
 
+Tive também como base o [guia do desenvolvedor oficial do Magisk](https://topjohnwu.github.io/Magisk/guides.html).
+
 Gostaria também de expressar meus agradecimentos aos professores do IFC campus São Bento do Sul, cujas contribuições foram valiosas na elaboração da descrição e do arquivo README deste projeto.
