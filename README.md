@@ -1,5 +1,5 @@
 # Universal_system_app_installer
-Módulo do magisk para instalar qualquer .apk como app do sistema 
+Módulo do magisk para instalar vários .apk como app do sistema 
 
 Como usar:
 
