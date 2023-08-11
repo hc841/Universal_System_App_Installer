@@ -9,8 +9,9 @@ Como usar:
 
 3-Mova os arquivos .apk em /system/app/;
 
-4-Compacte o módulo em .zip;
+4-Entre na pasta raiz do módulo e compacte tudo la dentro em .zip;
 
 5-Instale o módulo no Magisk: clique na aba módulos (icone de peça de quebra-cabeça) e depois em "instalar a partir do armazenamento", após isso procure o módulo que você compactou e deixe instalar, apos isso clique em reiniciar.
 
-obs: A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de apks.
+obs: A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de apks;
+obs2: no meus testes nao pude instalar um zip com mais de 230mb.
