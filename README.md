@@ -1,5 +1,5 @@
-# Universal_system_app_installer
-Módulo do Magisk para instalar vários .apk como app do sistema 
+# Universal_System_App_Installer
+Módulo do Magisk para instalar um ou mais apks como app do sistema 
 
 Como usar:
 
@@ -17,6 +17,6 @@ Observações:
 
 1-A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de apks;
 
-2-Nos meus testes não pude instalar um zip com mais de 230mb;
+2-Nos testes no meu dispositivo (Motorola Moto g9 play) não pude instalar um zip com mais de 230mb;
 
 3-Usar apenas do Magisk 20.4 para cima.
