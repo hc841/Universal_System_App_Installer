@@ -18,6 +18,6 @@ Um módulo do Magisk para instalar um ou mais APKs como apps do sistema
 
 1- A instalação pode demorar dependendo da velocidade do seu celular e da quantidade de APKs;
 
-2- Nos testes no meu dispositivo (Motorola Moto G9 Play), não pude instalar um arquivo ZIP com mais de 230 MB;
+2- O arquivo zipado não pode passar de 230 MB;
 
 3- Use apenas o Magisk 20.4 para cima.
