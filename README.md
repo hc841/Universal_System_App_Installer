@@ -1,6 +1,6 @@
 # Universal System App Installer
 
-Um módulo do Magisk para instalar um ou mais APKs como apps do sistema
+Um módulo do Magisk para instalar um ou mais APKs como apps do sistema.
 
 ## Como usar:
 
@@ -8,9 +8,9 @@ Um módulo do Magisk para instalar um ou mais APKs como apps do sistema
 
 2- Descompacte o código fonte com o programa de sua preferência;
 
-3- Mova os arquivos .apk para /system/app/;
+3- Mova os arquivos APK que deseja instalar para /system/app/;
 
-4- Acesse a pasta raiz do módulo e compacte tudo lá dentro em um arquivo .zip;
+4- Acesse a pasta raiz do módulo e compacte tudo lá dentro em um arquivo ZIP;
 
 5- Instale o módulo no Magisk: clique na aba "Módulos" (ícone de peça de quebra-cabeça) e, em seguida, em "Instalar a partir do armazenamento". Após isso, procure o módulo que você compactou e deixe-o instalar. Depois disso, clique em "Reiniciar".
 
