@@ -2,7 +2,7 @@
 
 O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação de um ou mais APKs como aplicativos do sistema em dispositivos Android.
 
-## Como utilizar:
+## Como utilizar
 
 1. Faça o download do código-fonte clicando no botão "Código/Baixar ZIP";
 
@@ -14,7 +14,7 @@ O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com
 
 5. Prossiga instalando o módulo no Magisk: acesse a aba "Módulos" (representada pelo ícone de uma peça de quebra-cabeça) e, em seguida, clique em "Instalar a partir do armazenamento". Localize o arquivo ZIP do módulo que você criou e confirme a instalação. Finalize clicando em "Reiniciar".
 
-## Observações:
+## Observações
 
 1. O tempo necessário para a instalação pode variar conforme a velocidade do seu dispositivo e a quantidade de APKs selecionados;
 
@@ -22,11 +22,11 @@ O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com
 
 3. Este módulo requer a utilização do Magisk 20.4 ou uma versão mais recente.
 
-## Contribua com o projeto.
+## Contribua com o projeto
 
 Se você gostou do meu projeto, considere fazer uma doação.
 
-**Pix: henriquemattos841@gmail.com;**
+**Pix: <henriquemattos841@gmail.com>;**
 
 **Bitcoin: 0x431376b69495c4C4E4ffea7BcD31799e74D50284;**
 
@@ -34,7 +34,7 @@ Se você gostou do meu projeto, considere fazer uma doação.
 
 **BNB: bnb198u9kkctjx749dt7nrrmnrk59z73c79cmk4y56.**
 
-## Créditos e Referências:
+## Créditos e Referências
 
 Este projeto teve como fonte de inspiração um [vídeo](https://www.youtube.com/watch?v=tM5dLRbMuwM&t=1523s) disponibilizado pelo canal [VegaData](https://www.youtube.com/@VegaData). O conteúdo desse vídeo foi fundamental para a criação do modelo do módulo e a implementação da funcionalidade que permite a instalação de APKs como aplicativos do sistema.
 
