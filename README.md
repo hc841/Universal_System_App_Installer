@@ -41,3 +41,5 @@ Se você gostou do meu projeto, considere fazer uma doação.
 - Também me baseei no [guia do desenvolvedor oficial do Magisk](https://topjohnwu.github.io/Magisk/guides.html).
 
 - Gostaria também de expressar meus agradecimentos aos professores do IFC campus São Bento do Sul, cujas contribuições foram valiosas na elaboração do arquivo README deste projeto.
+
+teste
