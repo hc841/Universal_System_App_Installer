@@ -4,7 +4,7 @@ O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com
 
 ## Como utilizar
 
-1. Faça o download do código-fonte clicando no botão "Código/Baixar ZIP";
+1. Faça o download do template do módulo clicando em "Releases" e baixe a versão disponível na release mais recente.
 
 2. Descompacte os arquivos obtidos utilizando o programa de sua preferência;
 
@@ -26,18 +26,18 @@ O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com
 
 Se você gostou do meu projeto, considere fazer uma doação.
 
-**Pix: <henriquemattos841@gmail.com>;**
+- **Pix: <henriquemattos841@gmail.com>;**
 
-**Bitcoin: 0x431376b69495c4C4E4ffea7BcD31799e74D50284;**
+- **Bitcoin: 0x431376b69495c4C4E4ffea7BcD31799e74D50284;**
 
-**Ethereum: bc1q838750nwwfw77ey2tj8yw0kz69j9fcz37gwp6f;**
+- **Ethereum: bc1q838750nwwfw77ey2tj8yw0kz69j9fcz37gwp6f;**
 
-**BNB: bnb198u9kkctjx749dt7nrrmnrk59z73c79cmk4y56.**
+- **BNB: bnb198u9kkctjx749dt7nrrmnrk59z73c79cmk4y56.**
 
 ## Créditos e Referências
 
-Este projeto teve como fonte de inspiração um [vídeo](https://www.youtube.com/watch?v=tM5dLRbMuwM&t=1523s) disponibilizado pelo canal [VegaData](https://www.youtube.com/@VegaData). O conteúdo desse vídeo foi fundamental para a criação do modelo do módulo e a implementação da funcionalidade que permite a instalação de APKs como aplicativos do sistema.
+- Este projeto teve como fonte de inspiração um [vídeo](https://www.youtube.com/watch?v=tM5dLRbMuwM&t=1523s) disponibilizado pelo canal [VegaData](https://www.youtube.com/@VegaData). O conteúdo desse vídeo foi fundamental para a criação do modelo do módulo e a implementação da funcionalidade que permite a instalação de APKs como aplicativos do sistema.
 
-Também me baseei no [guia do desenvolvedor oficial do Magisk](https://topjohnwu.github.io/Magisk/guides.html).
+- Também me baseei no [guia do desenvolvedor oficial do Magisk](https://topjohnwu.github.io/Magisk/guides.html).
 
-Gostaria também de expressar meus agradecimentos aos professores do IFC campus São Bento do Sul, cujas contribuições foram valiosas na elaboração do arquivo README deste projeto.
+- Gostaria também de expressar meus agradecimentos aos professores do IFC campus São Bento do Sul, cujas contribuições foram valiosas na elaboração do arquivo README deste projeto.
