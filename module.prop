@@ -1,6 +1,6 @@
-id=universal_system_app_installer
-name=Universal System App Installer
+id=universal_system_app_installer_and_uninstaller
+name=Universal System App Installer And Uninstaller
 version=1.0
 versionCode=1
 author=hc841
-description=Um módulo do Magisk para instalar um ou mais APKs como apps de sistema.
+description=Um módulo do Magisk para instalar ou mais desinstalar apps de sistema.
