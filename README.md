@@ -1,8 +1,10 @@
-# Universal System App Installer
+# Universal System App Installer And Uninstaller
 
-O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação de um ou mais APKs como aplicativos do sistema em dispositivos Android.
+O "Universal System App Installer And Uninstaller" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação ou desistalação de aplicativos do sistema em dispositivos Android.
 
 ## Como utilizar
+
+###Instalação de apps do sistema 
 
 1. Faça o download do template do módulo clicando em "Releases" e baixe a versão disponível na release mais recente.
 
@@ -13,6 +15,24 @@ O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com
 4. Navegue até a pasta principal do módulo e compacte todos os arquivos em um único arquivo ZIP;
 
 5. Prossiga instalando o módulo no Magisk: acesse a aba "Módulos" (representada pelo ícone de uma peça de quebra-cabeça) e, em seguida, clique em "Instalar a partir do armazenamento". Localize o arquivo ZIP do módulo que você criou e confirme a instalação. Finalize clicando em "Reiniciar".
+
+### Desistalação de apps do sistema
+
+
+1. Faça o download do template do módulo clicando em "Releases" e baixe a versão disponível na release mais recente.
+
+2. Descompacte os arquivos obtidos utilizando o programa de sua preferência;
+
+3. Encontre a localização do app que deseja desinstalar, Normalmente se encontram em /product/app;
+
+4. Copie a estrutura de diretório do app na pasta system;
+
+5. Crie um arquivo vazio com o nome do APK que está na pasta e com a extensão .apk;
+
+6. Navegue até a pasta principal do módulo e compacte todos os arquivos em um único arquivo ZIP;
+
+7. Prossiga instalando o módulo no Magisk: acesse a aba "Módulos" (representada pelo ícone de uma peça de quebra-cabeça) e, em seguida, clique em "Instalar a partir do armazenamento". Localize o arquivo ZIP do módulo que você criou e confirme a instalação. Finalize clicando em "Reiniciar".
+
 
 ## Observações
 
@@ -35,8 +55,7 @@ Se você gostou do meu projeto, considere fazer uma doação.
 - **BNB: bnb198u9kkctjx749dt7nrrmnrk59z73c79cmk4y56.**
 
 ## Créditos e Referências
-
-- Este projeto teve como fonte de inspiração um [vídeo](https://www.youtube.com/watch?v=tM5dLRbMuwM&t=1523s) disponibilizado pelo canal [VegaData](https://www.youtube.com/@VegaData). O conteúdo desse vídeo foi fundamental para a criação do modelo do módulo e a implementação da funcionalidade que permite a instalação de APKs como aplicativos do sistema.
+- Este projeto teve como fonte de inspiração um [vídeo](https://www.youtube.com/watch?v=tM5dLRbMuwM&t=1523s) disponibilizado pelo canal [VegaData](https://www.youtube.com/@VegaData).
 
 - Também me baseei no [guia do desenvolvedor oficial do Magisk](https://topjohnwu.github.io/Magisk/guides.html).
 
