@@ -22,7 +22,7 @@ O "Universal System App Installer And Uninstaller" é um módulo desenvolvido pa
 
 2. Descompacte os arquivos obtidos utilizando o programa de sua preferência.
 
-3. Encontre a localização do app que deseja desinstalar. Normalmente, eles se encontram em /product/app/.
+3. Encontre a localização do app que deseja desinstalar em /product/app/.
 
 4. Copie a estrutura de diretório do app para a pasta system.
 
