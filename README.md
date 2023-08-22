@@ -1,6 +1,6 @@
-# Universal System App Installer And Uninstaller
+# Universal System App Installer
 
-O "Universal System App Installer And Uninstaller" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação ou desinstalação de aplicativos do sistema em dispositivos Android.
+O "Universal System App Installer And Uninstaller" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação de aplicativos como do sistema em dispositivos Android.
 
 ## Como utilizar
 
@@ -15,22 +15,6 @@ O "Universal System App Installer And Uninstaller" é um módulo desenvolvido pa
 4. Navegue até a pasta principal do módulo e compacte todos os arquivos em um único arquivo ZIP.
 
 5. Prossiga instalando o módulo no Magisk: acesse a aba "Módulos" (representada pelo ícone de uma peça de quebra-cabeça), clique em "Instalar a partir do armazenamento". Localize o arquivo ZIP do módulo que você criou e confirme a instalação. Finalize clicando em "Reiniciar".
-
-### Desinstalação de apps do sistema
-
-1. Faça o download do template do módulo clicando em "Releases" e baixe a versão mais recente disponível na release.
-
-2. Descompacte os arquivos obtidos utilizando o programa de sua preferência.
-
-3. Encontre a localização do app que deseja desinstalar em /product/app/.
-
-4. Copie o nome da pasta do app que deseja desinstalar em /system/product/app/.
-
-5. Crie um arquivo vazio com o nome do APK que está na pasta e com a extensão .apk.
-
-6. Navegue até a pasta principal do módulo e compacte todos os arquivos em um único arquivo ZIP.
-
-7. Prossiga instalando o módulo no Magisk: acesse a aba "Módulos" (representada pelo ícone de uma peça de quebra-cabeça), clique em "Instalar a partir do armazenamento". Localize o arquivo ZIP do módulo que você criou e confirme a instalação. Finalize clicando em "Reiniciar".
 
 ## Observações
 
