@@ -1,6 +1,6 @@
 # Universal System App Installer
 
-O "Universal System App Installer And Uninstaller" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação de aplicativos como do sistema em dispositivos Android.
+O "Universal System App Installer" é um módulo desenvolvido para o Magisk, com o propósito de permitir a instalação de aplicativos como do sistema em dispositivos Android.
 
 ## Como utilizar
 
