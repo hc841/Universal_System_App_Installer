@@ -43,7 +43,7 @@ Se você gostou do meu projeto, considere fazer uma doação.
 
 - Gostaria também de expressar meus agradecimentos aos professores do IFC campus São Bento do Sul, cujas contribuições foram valiosas na elaboração do arquivo README deste projeto.
 
-## English Version
+## English Version 🇺🇲
 
 # Universal System App Installer
 
